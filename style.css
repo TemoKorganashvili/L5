@@ -120,3 +120,22 @@ opacity: 0px;
 .grey-paragraph{
     display: inline-block;
 }
+
+.container{
+    width: 1118px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-bg{
+    background-color: #FFFFFF;
+}
+.box{
+    width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+    display: inline-block;
+}
+.main-1{
+    background: #F9F8F8;
+
+}
