@@ -110,8 +110,8 @@ text-align: left;
 
 }
 .paragraph-desc{
-    margin-left: 60px;
-    width: 444px;
+margin-left: 60px;
+width: 444px;
 height: 60px;
 gap: 0px;
 opacity: 0px;
@@ -150,4 +150,13 @@ opacity: 0px;
 .box-text{
     margin-top: 20px;
     text-align: center;
+}
+.grey-block3{
+    padding-left: 27px;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    display: inline-block;
+    background-color: #ECECEC;
+    vertical-align: auto;  
+
 }
