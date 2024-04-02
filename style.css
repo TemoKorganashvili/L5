@@ -129,13 +129,25 @@ opacity: 0px;
 .section-bg{
     background-color: #FFFFFF;
 }
+.main-1{
+    background: #F9F8F8;
+
+}
+
 .box{
     width: 257px;
     height: 335px;
     background-color: #FFFFFF;
     display: inline-block;
+    padding-top: 29px;
+    
 }
-.main-1{
-    background: #F9F8F8;
 
+
+.active{
+    margin-right: 20px;
+}
+.box-text{
+    margin-top: 20px;
+    text-align: center;
 }
